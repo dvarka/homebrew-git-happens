@@ -4,10 +4,15 @@
 
 class GitHappens < Formula
     desc "AI-powered PR reviews from the CLI"
-    homepage "https://github.com/dvarka/git-happens"
+    homepage "https://github.com/samvaran/git-happens"
     version "0.0.1"
+<<<<<<< Updated upstream
     url "https://github.com/dvarka/git-happens/archive/refs/tags/v#{version}.tar.gz"
     sha256 "dfe210e2e2b5b83925cd67893ed02f10354693a93f9c5061cb268961ff53b307"
+=======
+    url "https://github.com/samvaran/git-happens/archive/refs/tags/v#{version}.tar.gz"
+    sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+>>>>>>> Stashed changes
     license "MIT"
   
     depends_on "deno"

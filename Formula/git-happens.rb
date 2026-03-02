@@ -5,9 +5,9 @@
 class GitHappens < Formula
     desc "AI-powered PR reviews from the CLI"
     homepage "https://github.com/samvaran/git-happens"
-    version "0.0.1"
+    version "0.0.2"
     url "https://github.com/samvaran/git-happens/archive/refs/tags/v#{version}.tar.gz"
-    sha256 "dfe210e2e2b5b83925cd67893ed02f10354693a93f9c5061cb268961ff53b307"
+    sha256 "1b6e88880eab841d61339f3345375b241879d07b992327602f3c61129d32a565"
     license "MIT"
   
     depends_on "deno"

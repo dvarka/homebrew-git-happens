@@ -7,7 +7,7 @@ class GitHappens < Formula
     homepage "https://github.com/dvarka/git-happens"
     version "0.0.1"
     url "https://github.com/dvarka/git-happens/archive/refs/tags/v#{version}.tar.gz"
-    sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+    sha256 "dfe210e2e2b5b83925cd67893ed02f10354693a93f9c5061cb268961ff53b307"
     license "MIT"
   
     depends_on "deno"

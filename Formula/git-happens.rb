@@ -4,9 +4,9 @@
 
 class GitHappens < Formula
     desc "AI-powered PR reviews from the CLI"
-    homepage "https://github.com/YOUR_GITHUB_ORG/YOUR_REPO"
+    homepage "https://github.com/dvarka/git-happens"
     version "0.0.1"
-    url "https://github.com/dvarka/homebrew-git-happens/archive/refs/tags/v#{version}.tar.gz"
+    url "https://github.com/dvarka/git-happens/archive/refs/tags/v#{version}.tar.gz"
     sha256 "0000000000000000000000000000000000000000000000000000000000000000"
     license "MIT"
   

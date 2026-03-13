@@ -3,7 +3,7 @@
 class GitHappens < Formula
   desc "AI-powered PR reviews from the CLI"
   homepage "https://github.com/samvaran/git-happens"
-  version "0.0.2"
+  version "0.0.4"
   license "MIT"
 
   on_macos do
